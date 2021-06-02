@@ -5,7 +5,7 @@ Dependencies used:
   2.	C++ programming language
   3.	Visual Studio IDE
   4.	Local MySQL database
-  5.	
+	
 How to Use:
   1.	For new users, register from the register menu and for admin users, login from the main login menu.
   2.	Users can login on the main login menu and then redirected to the main menu.
